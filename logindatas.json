@@ -1,0 +1,196 @@
+[{
+  "_id": {
+    "$oid": "667fa19516099ee4189b9165"
+  },
+  "Name": "Preet",
+  "Email": "preet133@gmail.com",
+  "Phone": "9595959595",
+  "Password": "12345678",
+  "Role": "Admin",
+  "Ward": "A",
+  "HashPassword": "$2a$10$22nhJ1.M6bOpVtqxIQWGO.TqALE9NaBG9bMSwLUAGmUcdBu1mpR4O",
+  "SuperAdmin": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667fac55b8e427222f8eec16"
+  },
+  "Name": "Preet Ambhire",
+  "Email": "preet1234@gmail.com",
+  "Phone": "8605676111",
+  "Password": "pass@123",
+  "Role": "Supervisor",
+  "Ward": "B",
+  "HashPassword": "$2a$10$TA.tblRtJo8hJPOZjbMN2upNx23bneNBlxmylCBWLfzJisM5/xdLO",
+  "SuperAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667fcfce15e201627b0e35a7"
+  },
+  "Name": "Vikrant Gharat",
+  "Email": "abc@gmail.com",
+  "Phone": "9767329836",
+  "Password": "12345678",
+  "Role": "Developer",
+  "Ward": "C",
+  "HashPassword": "$2a$10$B7kPjkMayDmRkTcqmHRvl.goK0wEv5cxS0RWxZl5r8DxOoof5bl7y",
+  "SuperAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b5efdd4c93621ae8a62c2d"
+  },
+  "Name": "xyst",
+  "Email": "xyst@gmail.com",
+  "Phone": "8080440468",
+  "Password": "123456",
+  "Role": "Admin",
+  "Ward": "A",
+  "HashPassword": "$2a$10$Cij5pyc8/zQDVU7dK9JRyuK/I0jykeOKmhuS7JoIAOjI0p6m0rkva",
+  "SuperAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b605e7354a41ef8fdcfe9d"
+  },
+  "Name": "Riz",
+  "Email": "riz@gmail.com",
+  "Phone": "90877564",
+  "Password": "123456",
+  "Role": "Admin",
+  "Ward": "I",
+  "HashPassword": "$2a$10$9RqSMicKdeiwPqdLjX3CHelfTUVx9z6xoAybeLxP0wuYxauZBfKMm",
+  "SuperAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ecf232e36831974916a9db"
+  },
+  "Name": "Ward A",
+  "Email": "warda@gmail.com",
+  "Phone": "8080440468",
+  "Password": "1234",
+  "Role": "Junior Engineer",
+  "Ward": "A",
+  "HashPassword": "$2a$10$qkdvKcO/jM3h8zLQYcZqmOT/0KG3cbUsds1l/EOeE0qGlcp2DY7aq",
+  "SuperAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ecf2bbe36831974916ab16"
+  },
+  "Name": "Ward B",
+  "Email": "wardb@gmail.com",
+  "Phone": "8080440468",
+  "Password": "1234",
+  "Role": "Junior Engineer",
+  "Ward": "B",
+  "HashPassword": "$2a$10$O5lg1NNsvbbKY74MRbIPz.bmZ7/y0wmhgI3nLB8CD3ZAW8Q6wSrWW",
+  "SuperAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ecf2dae36831974916ab1a"
+  },
+  "Name": "Ward C",
+  "Email": "wardc@gmail.com",
+  "Phone": "8080440468",
+  "Password": "1234",
+  "Role": "Junior Engineer",
+  "Ward": "C",
+  "HashPassword": "$2a$10$7YUsJk/SWoKqeg5MjHMvGe7/OtL3elSpUP2cSNXXc5jvzkrxqHCZa",
+  "SuperAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ecf2fae36831974916ab1e"
+  },
+  "Name": "Ward D",
+  "Email": "wardd@gmail.com",
+  "Phone": "8080440468",
+  "Password": "1234",
+  "Role": "Junior Engineer",
+  "Ward": "D",
+  "HashPassword": "$2a$10$idzGMTl76oflRqgI6GqpFO3cCVH.8akm6ueWsJHvGXOGqQluNNTkW",
+  "SuperAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ecf318e36831974916ab22"
+  },
+  "Name": "Ward E",
+  "Email": "warde@gmail.com",
+  "Phone": "8080440468",
+  "Password": "1234",
+  "Role": "Junior Engineer",
+  "Ward": "E",
+  "HashPassword": "$2a$10$EZxMccLKwnV0mIId5ByGC.oHx7D.X8hMMLYzuuZ3J3VpeStwVZCGy",
+  "SuperAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ecf335e36831974916ab26"
+  },
+  "Name": "Ward F",
+  "Email": "wardf@gmail.com",
+  "Phone": "8080440468",
+  "Password": "1234",
+  "Role": "Junior Engineer",
+  "Ward": "F",
+  "HashPassword": "$2a$10$nWgtztsap2HTOEjV/onR3OemM369/5XZbzvlkaryEtajN2JA2xJ6e",
+  "SuperAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ecf350e36831974916ab2a"
+  },
+  "Name": "Ward G",
+  "Email": "wardg@gmail.com",
+  "Phone": "8080440468",
+  "Password": "1234",
+  "Role": "Junior Engineer",
+  "Ward": "G",
+  "HashPassword": "$2a$10$2o6vEw7RtDls6rUTghVpne673Z9E6oSPnLYOC5jib8jcvlHaq92pK",
+  "SuperAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ecf36be36831974916ab74"
+  },
+  "Name": "Ward H",
+  "Email": "wardh@gmail.com",
+  "Phone": "8080440468",
+  "Password": "1234",
+  "Role": "Junior Engineer",
+  "Ward": "H",
+  "HashPassword": "$2a$10$Y0gdJE.kLp/2UiOAaFeFPuiPAzK62IKYR6ZvNc0k0I.NYPAORALgu",
+  "SuperAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ecf387e36831974916abb7"
+  },
+  "Name": "Ward I ",
+  "Email": "wardi@gmail.com",
+  "Phone": "8080440468",
+  "Password": "1234",
+  "Role": "Junior Engineer",
+  "Ward": "I",
+  "HashPassword": "$2a$10$jP.1tyMEwBrArtslpZ3Rn.ugVGocL9rKZmAi9l3bfyQMiRRQyqM2.",
+  "SuperAdmin": false,
+  "__v": 0
+}]
